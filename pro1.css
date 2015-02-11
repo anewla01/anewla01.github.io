@@ -1,0 +1,51 @@
+/* 
+* Andre C. Newland
+* anewl01
+* Assignment: First Project: personal Portfolio 
+*/
+
+
+/* Rules for Css sheet
+
+	At least 5 rules
+	NO fames
+	NO styling element ALL stylings are made in CSS
+	NO 
+*/
+
+
+body {
+    /*background-color: #d0e4fe;*/
+    background-color: #6DBDD6;
+
+}
+
+h1 {
+    color: #FFE658;
+    text-align: center;
+    font-family: Georgia;
+    margin-left: 20%;
+	margin-right: 20%;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+ 
+/*attempting to create some sort of button with background color border shading etc*/
+.button {
+	background-color: #B71427;
+	font-family: Georgia;
+}
+.stress {
+	font-size: 150%;
+}
+
+/*
+
+#404040 black 
+#6DBDD6 blue
+#B71427 red
+#FFE658 yellow
+*/
