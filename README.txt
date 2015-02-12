@@ -5,8 +5,9 @@ Files Included in this assignment:
 index.html
 bio.html
 resume.html
+contact_me.html
 
-Correct Implementations:
+Correct Implementations: CSS rules (albeit rules were simple and minimal)
 Incorrect Implementations:
 Collaborators: None
-Time Completion (Approximation): ? hours
+Time Completion (Approximation): 3 hours
