@@ -8,6 +8,10 @@ resume.html
 contact_me.html
 
 Correct Implementations: CSS rules (albeit rules were simple and minimal)
-Incorrect Implementations:
+Incorrect Implementations: n/a
 Collaborators: None
-Time Completion (Approximation): 3 hours
+Time Completion (Approximation): 4 hours
+
+Preliminary work. I have other plans in the future. 
+Making the navigation bar at the top alligned with the page.
+Potentially adding animations.
